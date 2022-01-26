@@ -1,0 +1,12 @@
+⦁	What is JDK? JRE? JVM?
+    - JDK - Java Development Kit is a Java development environment package that include JRE, interpreter, compiler and other tools for Java development
+    - JRE - Java Runtime Environment has JVM, core classes and supporting files that will execute a Java application
+    - JVM - Java Virtual Machine interprets bytecode that was compiled by Java
+⦁	What is java compiler?
+    - Java compiler compiles .class file into bytecode before passing to JVM
+⦁	Why is java platform independent?
+    - Java can run on any platform that has JVM on it
+⦁	What is IDE? Why is it important for developers?
+    - IDE is a GUI development environment that has most of the needed tools for developer. It helps the developer to edit, run, debug, test and deploy code quickly.
+⦁	Is java case sensitive?
+    - Yes, Java is case sensitive
